@@ -15,9 +15,9 @@ After some time, you will find that the array will no longer change, please retu
 
 ### Example 1:
 
-Enter:[6,2,3,4]
+Enter : [6,2,3,4]
 
-Output:[6,3,3,4]
+Output : [6,3,3,4]
 
 Explanation:
  On the first day, the array changes from [6,2,3,4] to [6,3,3,4].
@@ -25,9 +25,9 @@ Explanation:
 
 ### Example 2:
 
-Enter:[1,6,3,4,3,5]
+Enter : [1,6,3,4,3,5]
 
-Output:[1,4,4,4,4,5]
+Output : [1,4,4,4,4,5]
 
 Explanation:
  On the first day, the array changes from [1,6,3,4,3,5] to [1,5,4,3,4,5].
